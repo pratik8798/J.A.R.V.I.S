@@ -1,5 +1,5 @@
 # J.A.R.V.I.S
-Well Just Another Rather Very Intelligent System :) using python and speech recognition
+Well Just A Rather Very Intelligent System :) using python and speech recognition
 
 A simple python script to create a simple "Jarvis" that does way less work than Jarvis but performs a few task like opening youtube,opening webpage, sending emails etc.
 More features can be added as per need
